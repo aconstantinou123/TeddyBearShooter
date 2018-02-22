@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/Tinman/Documents/Visual Studio 2015/Projects/GameProject/GameProjectContent/fonts/Arial20.spritefont</SourceFile>
+  <SourceTime>2012-12-23T05:40:42+07:00</SourceTime>
+  <DestFile>C:/Users/Tinman/Documents/Visual Studio 2015/Projects/GameProject/GameProjectContent/bin/fonts/Arial20.xnb</DestFile>
+  <DestTime>2016-06-30T17:15:02.180966+07:00</DestTime>
+  <Importer>FontDescriptionImporter</Importer>
+  <ImporterTime>2015-04-30T00:14:44+07:00</ImporterTime>
+  <Processor>FontDescriptionProcessor</Processor>
+  <ProcessorTime>2015-04-30T00:14:44+07:00</ProcessorTime>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Compressed</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

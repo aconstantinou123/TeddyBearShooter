@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/Tinman/Documents/Visual Studio 2015/Projects/GameProject/GameProjectContent/audio/Explosion.wav</SourceFile>
+  <SourceTime>2010-09-27T18:41:46+07:00</SourceTime>
+  <DestFile>C:/Users/Tinman/Documents/Visual Studio 2015/Projects/GameProject/GameProjectContent/bin/audio/Explosion.xnb</DestFile>
+  <DestTime>2016-06-30T18:29:35.1617783+07:00</DestTime>
+  <Importer>WavImporter</Importer>
+  <ImporterTime>2015-04-30T00:14:44+07:00</ImporterTime>
+  <Processor>SoundEffectProcessor</Processor>
+  <ProcessorTime>2015-04-30T00:14:44+07:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>
